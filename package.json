@@ -1,0 +1,17 @@
+{
+  "name": "ignite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:franklinnjorge/ignite.git",
+  "author": "Franklin Borges <franklin.borges-extern@renault.com>",
+  "license": "MIT",
+  "scripts":{
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
