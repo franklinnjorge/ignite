@@ -1,0 +1,15 @@
+{
+  "name": "ignite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:franklinnjorge/ignite.git",
+  "author": "Franklin Borges <franklin.borges-extern@renault.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "typescript": "^4.5.4"
+  }
+}
